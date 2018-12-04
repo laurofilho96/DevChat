@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "419170134070",
+    "firebase_url": "https://devchat-589d0.firebaseio.com",
+    "project_id": "devchat-589d0",
+    "storage_bucket": "devchat-589d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419170134070:android:4f989558938911bc",
+        "android_client_info": {
+          "package_name": "com.example.lauro.devchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419170134070-2nn51d4ncuid8p1eisoj03rt37pmhber.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUjeiZz9Hb0RyVjEWkPnTp2_SyVXF0VfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
